@@ -97,6 +97,7 @@ jobs:
       - Test_Add
       - Test_Mul
       - Test_Div
+      - Test_car
     steps:
       - name: Deployment
         run: |
